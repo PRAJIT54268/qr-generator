@@ -86,3 +86,9 @@ Add screenshots to the repository after running the app locally. Do not copy ano
 ## Visual direction
 
 The interface was intentionally redesigned around a developer-oriented visual identity: deep navy surfaces, electric cyan, violet and a restrained orange warning accent. The goal is a precise, technical feel with a little personality rather than a generic QR-generator layout. The functionality and recruitment requirements remain unchanged.
+
+<img width="650" height="408" alt="image" src="https://github.com/user-attachments/assets/a94bd7a2-6adf-4c94-9c44-a21da21f9f90" />
+
+
+
+<img width="533" height="398" alt="image" src="https://github.com/user-attachments/assets/e563cc13-511e-4547-8d99-1fcf7ce38886" />
