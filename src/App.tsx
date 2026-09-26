@@ -179,7 +179,7 @@ function App() {
         {recent.length === 0 ? <div className="empty-state"><span>◌</span><p>Your saved QR codes will appear here.</p><small>They persist after refresh using localStorage.</small></div> : <div className="recent-grid">{recent.map((item) => <button className="recent-card" key={item.id} onClick={() => restore(item)}><span className="recent-mini"><canvas ref={(node) => { if (node && item.payload) renderQRCode(node, item.payload, { ...item.settings, size: 76 }); }} /></span><span className="recent-info"><strong>{item.name}</strong><small>{titleForType(item.type)} · {new Date(item.createdAt).toLocaleDateString()}</small></span><span className="restore-arrow">↗</span></button>)}</div>}
       </section>
 
-      <footer><span>WayPoint</span><span>Built for the GDG on Campus SRM technical recruitment task.</span></footer>
+      <footer><span>WayPoint</span></footer>
     </main>
   );
 }
