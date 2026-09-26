@@ -89,6 +89,7 @@ The interface was intentionally redesigned around a developer-oriented visual id
 
 <img width="650" height="408" alt="image" src="https://github.com/user-attachments/assets/a94bd7a2-6adf-4c94-9c44-a21da21f9f90" />
 
-
+<br>
+<br>
 
 <img width="533" height="398" alt="image" src="https://github.com/user-attachments/assets/e563cc13-511e-4547-8d99-1fcf7ce38886" />
